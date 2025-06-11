@@ -1,0 +1,20 @@
+[
+  {
+    "name": "M-Sand",
+    "price": 1200,
+    "min_qty": 5,
+    "max_qty": 100
+  },
+  {
+    "name": "Silica",
+    "price": 2000,
+    "min_qty": 10,
+    "max_qty": 200
+  },
+  {
+    "name": "Greet 20mm",
+    "price": 1800,
+    "min_qty": 8,
+    "max_qty": 150
+  }
+]
